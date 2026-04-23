@@ -4,4 +4,9 @@ rootfs-base/
 rootfs-alpha/
 rootfs-beta/
 *.o
+*.ko
+*.mod
+*.mod.c
+*.order
+*.symvers
 *.sock
