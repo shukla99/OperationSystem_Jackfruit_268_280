@@ -1,0 +1,1 @@
+savedcmd_/home/spoorthy/boilerplate/OS-Jackfruit/boilerplate/modules.order := {   echo /home/spoorthy/boilerplate/OS-Jackfruit/boilerplate/monitor.o; :; } > /home/spoorthy/boilerplate/OS-Jackfruit/boilerplate/modules.order
